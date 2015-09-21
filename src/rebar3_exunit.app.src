@@ -1,0 +1,11 @@
+{application, rebar3_exunit, [
+  {description, "Plugin to run exUnit tests"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+
+  {contributors, ["ProcessOne"]},
+  {licenses, ["Apache"]},
+  {links, [{"Github", "https://github.com/processone/rebar3_exunit_plugin"}]}
+]}.
