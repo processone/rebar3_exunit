@@ -1,5 +1,5 @@
 {application, rebar3_exunit, [
-  {description, "Plugin to run exUnit tests"},
+  {description, "Plugin to run ExUnit tests"},
   {vsn, "0.1.1"},
   {registered, []},
   {applications, [kernel, stdlib]},
